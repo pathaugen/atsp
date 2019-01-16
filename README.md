@@ -1,5 +1,5 @@
 
-SuRL
+atsp
 ====
 [![CircleCI Build Status](https://circleci.com/gh/pathaugen/atsp.svg?style=svg)](https://circleci.com/gh/pathaugen/atsp)
 [![TravisCI Build Status](https://travis-ci.com/pathaugen/atsp.svg?branch=master)](https://travis-ci.com/pathaugen/atsp)
